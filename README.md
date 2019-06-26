@@ -1,7 +1,4 @@
-# Types Variables Logic and Operations Lab 2
-
-## Instructions for lab submission
-
+# Types Variables Logic or Operations Lab 2 test
 1. Fork the assignment repo
 1. Clone your Fork to your machine
 1. Complete the lab
