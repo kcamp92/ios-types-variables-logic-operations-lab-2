@@ -140,11 +140,31 @@ Hint: use an if/else block along with the `%` operator
 You are given four variables `a`, `b`, `c` and `d`. Print the value of the smallest one.
 
 ```swift
-var a = 5
+/*var a = 5
 var b = 6
 var c = 3
 var d = 4
 
 let smallestOne = min(a, b, c, d )
-print(smallestOne)
+print(smallestOne)*/
+
+var a = 5
+var b = 6
+var c = 3
+var d = 4
+
+var min = c
+
+if a < min {
+print ("a")
+} else if b < min {
+print ("b")
+} else if c < min {
+print ("c")
+} else if d < min {
+print ("d")
+} else {
+print (min)
+}
 ***
+
